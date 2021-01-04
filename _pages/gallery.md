@@ -9,4 +9,4 @@ author_profile: true
 
 Svalbard, January - May 2018
 ======
-![](https://github.com/lindathielke/lindathielke.github.io/blob/master/images/500x300.png)
+![test](https://lindathielke.github.io/images/500x300.png)
