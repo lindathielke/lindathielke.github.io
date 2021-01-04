@@ -42,8 +42,8 @@ Skills
 
 Conferences
 ======
-* EGU General Assembly, 2020: 
-* AGU Fall Meeting, 2020:
+* EGU General Assembly, 2020
+* AGU Fall Meeting, 2020
 
 Fieldwork
 =========
@@ -54,4 +54,4 @@ Fieldwork
 Voluentary Work
 ======
 * Student representative, Meteorology, University of Hamburg, 2014-2017
-* PhD representative, ArcTrain, University of Bremen, since 2019
+* PhD representative, ArcTrain, University of Bremen, since 2020

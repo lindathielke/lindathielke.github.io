@@ -11,13 +11,13 @@ Besides the offical talks and articles, I use twitter as science communication t
 
 Talks
 ======
-* Remote Sensing during Leg 5 of the MOSAiC expedition, EAGLE master studies, University of Würzburg, 2019
+* Remote Sensing during Leg 5 of the MOSAiC expedition, EAGLE master studies, University of Würzburg, 2020
 
 Blog posts
 ==========
-* Two ArcTrainees – one big scientific question: A story about leads from the MOSAiC drift expedition, ArcTrain Blog, 2019
+* Two ArcTrainees – one big scientific question: A story about leads from the MOSAiC drift expedition, ArcTrain Blog, 2020
 
 
 Others
 ======
-* Local newspaper article about my experience during the MOSAiC expedition, 2019
+* Local newspaper article about my experience during the MOSAiC expedition, 2020
