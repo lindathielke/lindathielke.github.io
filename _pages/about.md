@@ -9,8 +9,3 @@ redirect_from:
 ---
 
 Welcome to my webpage. It is currently under development. Stay tuned for more information.
-
-Motiviation
-======
-
-The Arctic fascinates me!
