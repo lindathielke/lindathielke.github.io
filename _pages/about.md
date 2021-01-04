@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my webpage. It is currently under development. Stay tuned for more information.
+Welcome! My website is new and currently under development. Stay tuned for more information.
