@@ -9,25 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* since 2019, Ph.D. candidate, University of Bremen
+* Internship, energy & meteo systems GmbH, Oldenburg, 2017
+* Internship, METCON, Hamburg, 2017
+* Student Assistant, DKRZ, Hamburg, 2016-2017
+* Internship, Institut für Wetter und Klimakommunikation, Hamburg, 2015
+
+
 Education
 ======
-* B.Sc. Meteorology, University of Hamburg, 2016
 * M.Sc. Meteorology, University of Hamburg, 2019
 * Arctic Geophysics, University Centre in Svalbard, Spring semester, 2018
-* since 2019, Ph.D., University of Bremen
+* B.Sc. Meteorology, University of Hamburg, 2016
 
 
 Thesis
 ======
-* Vergleich der zeitlichen Entwicklung des Trockenheitsindex und der Vegetationsbedeckung in verschiedenen Klimasystemmodellen, 2016
 * Vertical momentum flux measurements at a Boundary Layer Tower and its parameterization in numerical atmospheric models, 2019
+* Vergleich der zeitlichen Entwicklung des Trockenheitsindex und der Vegetationsbedeckung in verschiedenen Klimasystemmodellen, 2016
 
-Work experience
-======
-* Internship, Institut für Wetter und Klimakommunikation, Hamburg, 2015
-* Student Assistant, DKRZ, Hamburg, 2016-2017
-* Internship, METCON, Hamburg, 2017
-* Internship, energy & meteo systems GmbH, Oldenburg, 2017
   
 Skills
 ======
@@ -42,16 +44,21 @@ Skills
 
 Conferences
 ======
-* EGU General Assembly, 2020
+* EGU General Assembly, 2021
+* Arctic Science Summit Week, 2021
 * AGU Fall Meeting, 2020
+* ArcTrain Annual Meeting, 2020
+* EGU General Assembly, 2020
+
 
 Fieldwork
 =========
-* Air-Ice-Sea Interaction, Polarsyssel, Svalbard, 2018
-* Snow and Ice Proccesses, On land Glacier, Svalbard, 2018
-* MOSAiC Expedition, Leg 5, RV Polarstern, 2020
+* MOSAiC Expedition, Leg 5, RV Polarstern, Aug-Oct 2020
+* Air-Ice-Sea Interaction, Polarsyssel, St.Jonsfjorden, Svalbard, April 2018
+* Snow and Ice Proccesses, Tellumbreen/Blekumbreen, Svalbard, March 2018
+
 
 Voluentary Work
 ======
+* PhD representative, ArcTrain, University of Bremen, since March 2020
 * Student representative, Meteorology, University of Hamburg, 2014-2017
-* PhD representative, ArcTrain, University of Bremen, since 2020

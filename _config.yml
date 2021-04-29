@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arctic Enthusiast"
+title                    : "arctic_linda"
 title_separator          : "-"
 name                     : &name
 description              : &description
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Linda Thielke"
   avatar           : "profile_linda.jpg"
-  bio              : "PhD student - Arctic Sea Ice"
+  bio              : "PhD candidate - Arctic Sea Ice"
   location         : "University of Bremen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

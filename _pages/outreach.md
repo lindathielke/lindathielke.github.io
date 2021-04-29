@@ -17,7 +17,14 @@ Blog posts
 ==========
 * Two ArcTrainees – one big scientific question: A story about leads from the MOSAiC drift expedition, ArcTrain Blog, 2020
 
+Social Media
+============
+* Instagram stories before and after my participitation in the MOSAiC expedition for the University of Bremen, 2020/2021
+
+Education
+=========
+* Digitale Drehtür - Online lesson about the Arctic, March 2021
 
 Others
 ======
-* Local newspaper article about my experience during the MOSAiC expedition, 2020
+* Local newspaper (Dewezet) article about my experience during the MOSAiC expedition, 2020
